@@ -40,5 +40,30 @@
   <a href="https://github.com/dolby360/hex_color_displayer">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dolby360&repo=hex_color_displayer&theme=swift&hide_border=true" alt="aioswitcher-stats">
   </a>
- 
+</p>
+
+ <h2 align="center">:handshake: My Contributions</h2>
+
+<p align="center">
+  <a href="https://github.com/kozmer/log4j-shell-poc">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kozmer&repo=log4j-shell-poc&theme=swift&hide_border=true" alt="aioswitcher-stats">
+  </a>
+  
+  <a href="https://github.com/TomerFi/auto-me-bot">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=auto-me-bot&theme=swift&hide_border=true" alt="repo=auto-me-bot-stats">
+  </a> 
+  
+  <a href="https://github.com/TomerFi/aioswitcher">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=aioswitcher&theme=swift&hide_border=true" alt="aioswitcher-stats">
+  </a>
+  
+  <a href="https://github.com/TomerFi/switcher_webapi">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=switcher_webapi&theme=swift&hide_border=true" alt="switcher_webapi-stats">
+  </a>
+
+
+</p>
+
+
+
 
