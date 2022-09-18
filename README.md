@@ -62,6 +62,10 @@
   </a>
 
 
+  <a href="https://github.com/allero-io/allero">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=allero-io&repo=allero&theme=swift&hide_border=true" alt="allero-stats">
+  </a>
+
 </p>
 
 
