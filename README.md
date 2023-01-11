@@ -38,9 +38,7 @@
   <a href="https://github.com/collin80/SavvyCAN">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=collin80&repo=SavvyCAN&theme=swift&hide_border=true" alt="SavvyCAN-stats">
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/allero-io/allero">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=allero-io&repo=allero&theme=swift&hide_border=true" alt="allero-stats">
   </a>
