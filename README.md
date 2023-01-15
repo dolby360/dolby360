@@ -77,7 +77,7 @@
     <td align="center" width="220">
       <a href="https://open.spotify.com/episode/4EalftiWjc7yLQdYh1YX2I?si=5bda03b031024eb6&fbclid=IwAR04lihWnK3yW5m_MXEOHfGYl44ZfBSFm_vuNekvSOrZRdLakHe4GJrrTDg&nd=1">
         <img src="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog13355218/WhatsApp_Image_2022-11-23_at_09_29_55_54s7mr.jpeg" width="100" height="70" alt=""/><br />
-        <sub><b>Protect secrets in Git<br/>with the clean/smudge filter</b></sub>
+        <sub><b>Open source podcast</b></sub>
       </a>
     </td>
   </tr>
