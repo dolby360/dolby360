@@ -85,6 +85,12 @@
         <sub><b>Open source podcast</b></sub>
       </a>
     </td>
+    <td align="center" width="220">
+      <a href="https://plaxidityx.com/blog/engineering/dynamic-sbom-monitoring-the-pulse-of-software-security/">
+        <img src="https://plaxidityx.com/wp-content/uploads/2025/02/20681-Dynamic-SBOM-Blog-1920x400px.jpg.webp" width="100" height="70" alt=""/><br />
+        <sub><b>Open source podcast</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
