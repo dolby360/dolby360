@@ -102,9 +102,6 @@
   <a href="https://github.com/dolby360/hex_color_displayer">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dolby360&repo=hex_color_displayer&theme=swift&hide_border=true" alt="aioswitcher-stats">
   </a>
-  <a href="https://github.com/dolby360/HumiditySensor">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dolby360&repo=HumiditySensor&theme=swift&hide_border=true" alt="aioswitcher-stats">
-  </a>
 </p>
 
 
